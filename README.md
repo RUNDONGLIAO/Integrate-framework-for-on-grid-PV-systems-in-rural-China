@@ -8,7 +8,7 @@ All code is divided into function definition code and use code, the code stored 
 Use `convert_EPW_to_CSV.py` to convert EPW weather file of selected location to CSV format.
 
 ### 2. Baseline Load Generation
-- Use `run_baselineload.py` to create annual baseline load data
+Use `run_baselineload.py` to create annual baseline load data
 
 ### 3. DHW Simulation
 Use `run_DHW_simulation.py` to simulate DHW profiles.
@@ -24,8 +24,7 @@ Use `convertheatingcoolingtoelec.py` to convert heating and cooling loads to ele
 Use `convertDHWtoelec.py` to convert DHW loads to electricity demand.
 
 ### 7. Load Profile Integration
-Use `update_loadprofile.py` to:
-- Merge heating and cooling electrical loads, baseline loads, and DHW electrical loads.
+Use `update_loadprofile.py` to merge heating and cooling electrical loads, baseline loads, and DHW electrical loads.
 
 ### 8. PV power generation simulation
 Use `run_PV.py` to simulate 1kWp PV power generation for selected location.
