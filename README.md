@@ -4,7 +4,7 @@ The framework provides demand-side, supply-side, and optimisation-side models fo
 # Usage guidelines
 
 # Credits and contact
-If you have any questions about the code please feel free contact Rundong Liao.
+If you have any questions about the code please feel free contact Rundong Liao(mailto:RundongLiao@outlook.com).
 
 # Citation
 If you use the code derived from it in academic work, please cite:
