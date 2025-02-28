@@ -4,7 +4,7 @@ The framework provides demand-side, supply-side, and optimisation-side models fo
 # Citation
 If you use the code derived from it in academic work, please cite:
 
-Rundong Liao, Massimiliano Manfren, Benedetto Nastasi (2025).
+will be here soon....
 
 # Usage guidelines
 ## Operation Steps
