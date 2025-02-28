@@ -39,7 +39,7 @@ Use `run_MILP.py` to run MILP for determining:
 - Optimal PV system size
 - Optimal battery storage capacity
 - Optimal battery power
-- Optimal pareto front of cost and CO2 
+- Optimal pareto front of Cost and CO2 
 
 # Credits and contact
 If you have any questions about the code please feel free contact [Rundong Liao](mailto:RundongLiao@outlook.com).
