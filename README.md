@@ -1,9 +1,9 @@
 # Integrate-framework-for-on-grid-PV-systems-in-rural-China
 The framework provides demand-side, supply-side, and optimisation-side models for the design and optimisation of grid-connected PV systems for rural buildings in different climate zones in China.
 
-#Usage guidelines
+# Usage guidelines
 
-#Credits and contact
+# Credits and contact
 If you have any questions about the code please feel free contact Rundong Liao.
 
 # Citation
